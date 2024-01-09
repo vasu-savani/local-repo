@@ -1,3 +1,3 @@
 # this is my local repo.
-# commit -a
+# commit -a.
 # status short
